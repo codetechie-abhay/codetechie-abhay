@@ -2,7 +2,7 @@
 
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
-<h3 style="font-family: 'Lucida Console';> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
 
 
 - 🤔 &nbsp; Exploring new technologies and being a coding enthusiastic.
