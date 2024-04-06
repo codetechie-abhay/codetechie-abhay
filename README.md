@@ -1,4 +1,4 @@
-### नमस्ते (Namaste)🙏, This is Abhay Nautiyal (0xA13H4Y) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### नमस्ते (Namaste)🙏, This is Abhay Nautiyal ) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
