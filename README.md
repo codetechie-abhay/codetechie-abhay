@@ -1,4 +1,4 @@
-### नमस्ते (Namaste)🙏, This is Abhay Nautiyal ) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### नमस्ते (Namaste)🙏, This is Dhruv Bathla ) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
@@ -35,23 +35,12 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/abhay-nautiyal-722b24228/">
+ <a href="https://www.linkedin.com/in/dhruvbathla/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
- <a href="https://github.com/codetechie-abhay">
+ <a href="https://github.com/dhruv-bathla">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-<a href="https://m.facebook.com/profile.php?id=100025141350921&_rdr">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- <a href="https://www.instagram.com/abhaynautiyal_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-<a href="https://twitter.com/AbhayNautiyal">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
-
-
+  
 
 
 <div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
