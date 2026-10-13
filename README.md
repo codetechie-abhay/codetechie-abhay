@@ -1,50 +1,42 @@
-### नमस्ते (Namaste)🙏, This is Dhruv Bathla ) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### नमस्ते (Namaste) 🙏, This is Abhay Nautiyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>                                                                           
 
+### 👨🏻‍💻 &nbsp; About Me 
 
-- 🤔 &nbsp; Exploring new technologies and being a coding enthusiastic.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Govind Ballabh Pant Engineering College.
-- 🌱 &nbsp; Learning more about Programming Languages.
-- ✍️ &nbsp; I am Beginner&Self-motivated computer science engineer with keen interest in Coding&Development🌍 .
+- 🔭 &nbsp; Working as a **Research Associate** at **BEL CRL** (Central Research Laboratory, Bharat Electronics Limited).
+- 🎓 &nbsp; Graduate with a B.Tech & M.Tech degree with a strong foundation in Engineering, Robotics, and Software Development.
+- 🤖 &nbsp; Passionate about Robotics, ROS 2, C++, Python, Computer Vision, and autonomous systems.
+- 🌱 &nbsp; Constantly exploring advanced technologies, algorithm design, and scalable software solutions.
+- ✍️ &nbsp; Self-motivated engineer with a keen interest in coding, development, and solving real-world complex problems.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
+
+### 🛠 &nbsp; Tech Stack & Tools
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![ROS 2](https://img.shields.io/badge/-ROS%202-333333?style=flat&logo=ros&logoColor=22314E)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=ffffff)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
-
-<a href="https://github.com/codetechie-abhay">
-</a>
+  ![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake&logoColor=064F8C)
 
 <br/>
 
+---
 
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp; Connect with Me 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/dhruvbathla/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
- <a href="https://github.com/dhruv-bathla">
+ <a href="https://github.com/codetechie-abhay">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  
+  </a>
+</p>
 
-
-<div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
-
+<div align="center"><strong>Show some ❤️️ by starring ⭐ some of the repositories!</strong></div>
 
 ---
 
